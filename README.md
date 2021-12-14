@@ -4,7 +4,6 @@
 ```
 npm install
 ```
-
 ## To run server
 ```
 npm run dev
